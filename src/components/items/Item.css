@@ -1,0 +1,36 @@
+
+.card1, .card2, .card3 {
+    float: right;
+    height: 400px;
+    overflow: hidden;
+    width: 25%;
+    margin-left: 100px;
+    box-shadow: 2px 2px 4px 4px #f5f6fa;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-bottom: 60px;
+}
+.main-area button{
+    margin-top: 5px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+}
+.main-area{
+    margin-top: 0px;
+}
+.main-area button:hover{
+    background-color: #6873FF;
+}
+
+.starting-area h2{
+    color: darkblue;
+}
+.starting-area h3{
+    color:  limegreen;
+}
